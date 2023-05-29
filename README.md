@@ -1,1 +1,1 @@
-# python-scripts
+# python-scripts for data analysis course
